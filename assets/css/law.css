@@ -1,0 +1,399 @@
+#home-slider > .fw-container-fluid{
+   padding: 0;
+}
+
+#fh5co-content > .fw-container-fluid{
+   padding: 0;
+}
+
+#fh5co-content .choose {
+   padding: 15px 40px 0;
+}
+
+.fh5co-heading span {
+   display: block;
+   margin-bottom: 10px;
+   text-transform: none;
+   font-size: 12px;
+   letter-spacing: 0px;
+}
+
+#fh5co-content .fh5co-heading {
+   margin-bottom: 0;
+}
+
+#fh5co-content .fh5co-heading h2 {
+   margin-bottom: 15px;
+}
+
+#fh5co-practice .fh5co-heading,
+#fh5co-blog .fh5co-heading,
+#fh5co-about .fh5co-heading {
+   padding: 0 16%;
+}
+
+
+
+
+.law-services .fw-iconbox {
+   position: relative;
+   padding: 30px;
+   margin-bottom: 60px;
+   background: #fff;
+   border: 1px solid rgba(0,0,0, 0.2);
+   transition: 0.3s;
+   border-radius: 4px;
+   box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
+}
+.law-services .fw-iconbox h3 a {
+   color: #000;
+}
+.law-services .fw-iconbox .fw-iconbox-image {
+   width: 90px;
+   height: 90px;
+   background: #F95959;
+   display: table;
+   text-align: center;
+   margin: -75px auto 0 auto;
+   margin-bottom: 30px;
+   border-radius: 50%;
+   transition: 0.3s;
+}
+@media screen and (max-width: 992px) {
+   .law-services .fw-iconbox .fw-iconbox-image {
+       margin: 0 auto 30px auto;
+   }
+}
+.law-services .fw-iconbox .fw-iconbox-image i {
+   display: table-cell;
+   vertical-align: middle;
+   height: 90px;
+   font-size: 40px;
+   line-height: 40px;
+   color: #fff;
+}
+.law-services .fw-iconbox:hover, .law-services .fw-iconbox:focus {
+   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75);
+}
+.law-services .fw-iconbox:hover .fw-iconbox-image, .law-services .fw-iconbox:focus .fw-iconbox-image {
+   background: #007CB9;
+   box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
+}
+.law-services .fw-iconbox .fw-iconbox-title h3 {
+   transition: .5s;
+   font-weight: 400;
+}
+.law-services .fw-iconbox:hover h3, .services:focus h3 {
+   color: #F95959;
+}
+
+#fh5co-practice .fw-btn{
+   background-color: #F95959;
+   border: solid #F95959;
+   padding: 18px 36px;
+   border-radius: 30px;
+   font-weight: 400;
+   font-size: 16px;
+}
+
+.fw_form_fw_form .field-text input:active, 
+.fw_form_fw_form .field-text input:focus,
+.fw_form_fw_form .field-textarea textarea:active,
+.fw_form_fw_form .field-textarea textarea:focus {
+   outline: none;
+   box-shadow: none;
+   border-color: #F95959;
+}
+
+.wrap-forms label{
+ display: none;
+}
+
+.form-alert {
+   display: none;
+}
+
+a.btn.btn-primary:visited {
+   color: #fff;
+}
+
+.fh5co-staff img {
+   height: 200px;
+}
+
+#fh5co-about .fh5co-staff span.fw-icon i {
+   font-size: 20px;
+}
+#fh5co-about .fh5co-staff span.fw-icon {
+   display: inline-block;
+    zoom: 1;
+    *display: inline;
+    color: #F95959;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding: 0 10px;
+}
+
+#menu-footer-menu {
+   padding: 0;
+   margin: 0;
+}
+#menu-footer-menu li {
+   padding: 0;
+   margin: 0;
+   list-style: none;
+}
+#menu-footer-menu li a {
+   color: rgba(0, 0, 0, 0.5);
+   text-decoration: none;
+}
+
+#menu-footer-menu li a:hover {
+   text-decoration: underline;
+}
+
+.p-0 {
+   padding: 0;
+}
+#law_map_id {
+   padding: 0;
+}
+#law_map_id .fw-container-fluid {
+   padding: 0;
+}
+
+.law-post-image {
+   max-width: 400px;
+   margin-right: 15px;
+   margin-bottom: 15px
+}
+
+.comment-navigation {
+	border-top: 1px solid #d1d1d1;
+	border-bottom: 1px solid #d1d1d1;
+	color: #686868;
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-size: 13px;
+	font-size: 0.8125rem;
+	line-height: 1.6153846154;
+	margin: 0 7.6923% 2.1538461538em;
+	padding: 1.0769230769em 0;
+}
+
+.comment-navigation {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+
+/* 
+.comments-area {
+	margin: 0 7.6923% 3.5em;
+}
+
+.comment-list + .comment-respond,
+.comment-navigation + .comment-respond {
+	padding-top: 1.75em;
+} */
+
+.comments-title,
+.comment-reply-title {
+	border-top: 4px solid #1a1a1a;
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-size: 23px;
+	font-size: 1.4375rem;
+	font-weight: 700;
+	line-height: 1.3125;
+	padding-top: 1.217391304em;
+}
+
+.comments-title {
+	margin-bottom: 1.217391304em;
+}
+
+.comment-list {
+	list-style: none;
+	margin: 0;
+}
+
+.comment-list article,
+.comment-list .pingback,
+.comment-list .trackback {
+	border-top: 1px solid #d1d1d1;
+	padding: 1.75em 0;
+}
+
+.comment-list .children {
+	list-style: none;
+	margin: 0;
+}
+
+.comment-list .children > li {
+	padding-left: 0.875em;
+}
+
+.comment-author {
+	color: #1a1a1a;
+	margin-bottom: 0.4375em;
+}
+
+.comment-author .avatar {
+	float: left;
+	height: 28px;
+	margin-right: 0.875em;
+	position: relative;
+	width: 28px;
+}
+
+.bypostauthor > article .fn:after {
+	content: "\f304";
+	left: 3px;
+	position: relative;
+	top: 5px;
+}
+
+.comment-metadata,
+.pingback .edit-link {
+	color: #686868;
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-size: 13px;
+	font-size: 0.8125rem;
+	line-height: 1.6153846154;
+}
+
+.comment-metadata {
+	margin-bottom: 2.1538461538em;
+}
+
+.comment-metadata a,
+.pingback .comment-edit-link {
+	color: #686868;
+}
+
+.comment-metadata a:hover,
+.comment-metadata a:focus,
+.pingback .comment-edit-link:hover,
+.pingback .comment-edit-link:focus {
+	color: #007acc;
+}
+
+.comment-metadata .edit-link,
+.pingback .edit-link {
+	display: inline-block;
+}
+
+.comment-metadata .edit-link:before,
+.pingback .edit-link:before {
+	content: "\002f";
+	display: inline-block;
+	opacity: 0.7;
+	padding: 0 0.538461538em;
+}
+
+.comment-content ul,
+.comment-content ol {
+	margin: 0 0 1.5em 1.25em;
+}
+
+.comment-content li > ul,
+.comment-content li > ol {
+	margin-bottom: 0;
+}
+
+.comment-reply-link {
+	border: 1px solid #d1d1d1;
+	border-radius: 2px;
+	color: #007acc;
+	display: inline-block;
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-size: 13px;
+	font-size: 0.8125rem;
+	line-height: 1;
+	margin-top: 2.1538461538em;
+	padding: 0.5384615385em 0.5384615385em 0.4615384615em;
+}
+
+.comment-reply-link:hover,
+.comment-reply-link:focus {
+	border-color: currentColor;
+	color: #007acc;
+	outline: 0;
+}
+
+.comment-form {
+	padding-top: 1.75em;
+}
+
+.comment-form label {
+	color: #686868;
+	display: block;
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-size: 13px;
+	font-size: 0.8125rem;
+	letter-spacing: 0.076923077em;
+	line-height: 1.6153846154;
+	margin-bottom: 0.5384615385em;
+	text-transform: uppercase;
+}
+
+.comment-list .comment-form {
+	padding-bottom: 1.75em;
+}
+
+.comment-notes,
+.comment-awaiting-moderation,
+.logged-in-as,
+.form-allowed-tags {
+	color: #686868;
+	font-size: 13px;
+	font-size: 0.8125rem;
+	line-height: 1.6153846154;
+	margin-bottom: 2.1538461538em;
+}
+
+.no-comments {
+	border-top: 1px solid #d1d1d1;
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-weight: 700;
+	margin: 0;
+	padding-top: 1.75em;
+}
+
+.comment-navigation + .no-comments {
+	border-top: 0;
+	padding-top: 0;
+}
+comment-reply-title small {
+	font-size: 100%;
+}
+
+.comment-reply-title small a {
+	border: 0;
+	float: right;
+	height: 32px;
+	overflow: hidden;
+	width: 26px;
+}
+
+.comment-reply-title small a:hover,
+.comment-reply-title small a:focus {
+	color: #1a1a1a;
+}
+
+.comment-reply-title small a:before {
+	content: "\f405";
+	font-size: 32px;
+	position: relative;
+	top: -5px;
+}
+
+.comment-form #wp-comment-cookies-consent {
+	margin: 0 10px 0 0;
+}
+
+.comment-form .comment-form-cookies-consent label {
+	display: inline;
+	font-family: Merriweather, Georgia, serif;
+	letter-spacing: 0;
+	text-transform: none;
+}
